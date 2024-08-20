@@ -4,8 +4,8 @@ Compilação de vários exemplos em flutter para estudo
 
 ## baseado 
 
-(codelabs flutter)[https://docs.flutter.dev/codelabs]
+[codelabs flutter](https://docs.flutter.dev/codelabs)
 
-(cookbook flutter)[https://docs.flutter.dev/cookbook]
+[cookbook flutter](https://docs.flutter.dev/cookbook)
 
-(livro flutter tutoriais handbook)[https://kodestat.gitbook.io/flutter]
+[livro flutter tutoriais handbook](https://kodestat.gitbook.io/flutter)
